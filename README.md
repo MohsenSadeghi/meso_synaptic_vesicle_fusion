@@ -4,11 +4,10 @@ This repository holds the codes used for analyzing the mesoscopic simulations th
 
 The following Jupyter notebooks are provided:
 
+ - ```data_preprocessor.ipynb``` this notebooks contains code to automatically download simulation trajectories from the online repository and preprocess the data for further analysis. It should be run first. 
  - ```docking_kinetics.ipynb``` for the analysis of docking kinetics, as shown in Supplementary Fig. 8 of the paper.
  - ```docking_morphology.ipynb``` for visualizing different membrane morphologies during the docking procedure, as shown in Fig. 3 of the paper.
  - ```synaptic_vesicle_MSM.ipynb``` for building Markov State models, based on the number of observations in the cryo-EM images.
-
-The notebooks also contains the code to automatically download simulation trajectories from the online repository.
 
 In addition to the Python Standard Library, the notebook depends on local installations of packages listed in the ```requirements.txt``` file.
 
