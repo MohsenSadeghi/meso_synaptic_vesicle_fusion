@@ -1,3 +1,11 @@
 numpy
+scipy
 matplotlib
 h5py
+pandas
+jupyter
+tqdm
+seaborn
+networkx
+
+
