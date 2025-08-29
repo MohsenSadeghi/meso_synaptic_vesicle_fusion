@@ -19,6 +19,8 @@ from your local python environment.
 
 We recommend making a conda environment for installing all the necessary components and running the notebook. See <a href="https://docs.conda.io/en/latest/miniconda.html">https://docs.conda.io/en/latest/miniconda.html</a> for instructions.
 
+Due to the large size of the trajectory data being loaded and processed, we recommend running the notebooks, as they are, on a machine with at least 20GB of free storage space and 16GB of RAM available. 
+
 ## Reference
 [1] J. Kroll, U. Kravčenko, M. Sadeghi, C. A. Diebolder, L. Ivanov, M. Lubas,  T. Sprink,  M. Schacherl,  M. Kudryashev,  C. Rosenmund “<a href = "https://doi.org/10.1101/2025.02.11.635788">Dynamic nanoscale architecture of synaptic vesicle fusion in mouse hippocampal neurons</a>”, _bioRxiv_ (2025) 635788.
 		
